@@ -1,0 +1,16 @@
+[package]
+name = "wasm-bindgen-console-logger"
+version = "0.1.0"
+
+authors = ["Ben Merritt <blm768@gmail.com>"]
+categories = ["development-tools::debugging", "wasm"]
+description = "A simple backend for the log crate that sends messages to the Web browser's console"
+license = "CC0-1.0"
+readme = "README.md"
+repository = "https://github.com/blm768/wasm-bindgen-console-logger"
+
+edition = "2018"
+
+[dependencies]
+log = "0.4.6"
+wasm-bindgen = "0.2.29"
