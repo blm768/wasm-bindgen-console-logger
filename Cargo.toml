@@ -1,6 +1,6 @@
 [package]
 name = "wasm-bindgen-console-logger"
-version = "0.1.0"
+version = "0.1.1"
 
 authors = ["Ben Merritt <blm768@gmail.com>"]
 categories = ["development-tools::debugging", "wasm"]
