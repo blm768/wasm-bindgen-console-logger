@@ -22,8 +22,6 @@
 //! }
 //! ```
 
-#![feature(custom_attribute)]
-
 use log::{Level, Log, Metadata, Record};
 use wasm_bindgen::prelude::*;
 
