@@ -13,4 +13,4 @@ edition = "2018"
 
 [dependencies]
 log = "0.4.6"
-wasm-bindgen = "0.2.29"
+wasm-bindgen = "0.2.33"
